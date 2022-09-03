@@ -1,6 +1,6 @@
 # 電卓（VBA）
 右クリックによって数値を入力し、四則演算を行う電卓です。
-![電卓](https://user-images.githubusercontent.com/84171334/188270828-647f4f2c-fc72-4f8c-aaa9-3b25c1e6fee5.jpg)
+![電卓](https://user-images.githubusercontent.com/84171334/188270894-ca6e8d0e-32c6-496b-b80f-74834ba90727.jpg)
 
 ## 実行内容
 - 四則演算（加算・減算・乗算・除算）
